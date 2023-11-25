@@ -59,11 +59,7 @@ public class Main {
         }
 
         int total=0;
-        for(String x: totalprice.keySet())
-        {
-            total = total + totalprice.get(x);
-
-        }
+        
         System.out.println(total+11200);
 
 
